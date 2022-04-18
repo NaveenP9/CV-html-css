@@ -1,0 +1,108 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather' , serif;
+  background-color: #EAF6F6;
+  font-weight: normal;
+
+}
+h1 {
+  margin: 0 auto;
+  font-family: 'sacramento' ,  cursive;
+  font-size: 80px;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+p {
+  font-family: 'sacramento' ,  cursive;
+  font-size: 25px;
+  color: #40514E;
+  width: 600px;
+  margin: auto;
+  margin-bottom: 40px;
+}
+h2 {
+  font-family: 'sacramento' ,  cursive;
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 80px;
+}
+h3 {
+  font-family: 'sacramento' ,  cursive;
+  color: #66BFBF;
+  font-size: 33px;
+}
+hr {
+  width: 5%;
+  border: dotted;
+  border-bottom: 0;
+  border-width: 4px;
+  border-color: grey;
+}
+a {
+  font-style:
+}
+.h1 {
+  font-family: sans-serif;
+  font-size: 28px;
+  color: #66BFBF;
+}
+.bottom-cloud {
+  position: absolute;
+  top: auto;
+}
+.top-cloud  {
+  padding-top:80px;
+  position: relative;
+  left: 400px;
+}
+
+.pic {
+  padding-top: 50px;
+}
+.contact-me {
+  margin-bottom: 40px;
+}
+.bottom-container {
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #369ee3);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #369ee3);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #369ee3);
+  background-image: -o-linear-gradient(top, #3cb0fd, #369ee3);
+  background-image: linear-gradient(to bottom, #3cb0fd, #369ee3);
+  text-decoration: none;
+}
+a {
+    color: #11999E;
+    font-family: 'sacramento' ,  cursive;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+.trade {
+  margin-top: 20px;
+}
