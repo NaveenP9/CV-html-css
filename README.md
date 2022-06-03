@@ -2,4 +2,4 @@
 
 # Web2-Projects
 
-https://naveen-polasa.github.io/Web2-Projects/TinDog/  --> TinDog Website
+[TinDog Website]{https://naveen-polasa.github.io/Web2-Projects/TinDog/}
